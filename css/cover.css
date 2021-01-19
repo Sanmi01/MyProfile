@@ -115,6 +115,15 @@ body {
   color: rgba(255, 255, 255, .5);
 }
 
+/* INDEX */
+.intro-img {
+  filter: grayscale(100%) opacity(100%);
+  border-radius: 50%;
+  width: 60%;
+}
+
+
+
 /* CONTACT */
 nav a {
   transition: 0.3s;
